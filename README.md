@@ -10,7 +10,7 @@ Arduino-based automatic irrigation using soil moisture sensor.
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit_diagram.jpeg)
 
 
 ## 👩‍💻 Developer
